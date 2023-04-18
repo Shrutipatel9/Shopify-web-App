@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 15px 35px;
+  font-family: 'Open Sans',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+a:hover{
+  color: rgb(238, 165, 7);
+}
+*{
+  box-sizing: border-box;
+}

@@ -1,0 +1,22 @@
+.sign-up-container {
+    display: block;
+    flex-direction: column;
+    width: 380px;
+    border: 2px solid rgb(228, 221, 221);
+    box-shadow: 0 1px 2px 0 rgba(143, 141, 141, 0.24),0 17px 50px 0 rgba(156, 142, 142, 0.19);
+    border-radius: 35px;
+    
+    padding: 20px;
+  
+    h2 {
+      margin: 10px 0;
+    }
+  
+    .buttons-container {
+      display: grid;
+      justify-content: center;
+      row-gap: 15px;
+      
+      
+    }
+  }
